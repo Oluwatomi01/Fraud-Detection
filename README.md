@@ -10,7 +10,7 @@ This project walks through **everything from data exploration to model selection
 
 ## Dataset
 
-* **Transactions:** 1.2 million+
+* **Transactions:** 1.0 million+
 * **Fraudulent cases:** ~0.13%
 * **Features:**
 
