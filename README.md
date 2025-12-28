@@ -9,7 +9,7 @@ This project walks through **everything from data exploration to model selection
 ---
 
 ## Dataset
-
+Source: https://www.kaggle.com/datasets/ealaxi/paysim1?resource=download
 * **Transactions:** 1.0 million+
 * **Fraudulent cases:** ~0.13%
 * **Features:**
